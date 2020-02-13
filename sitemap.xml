@@ -30,12 +30,6 @@
   </url>
   
   <url>
-    <loc>https://amarazm.github.io/post/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://amarazm.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
