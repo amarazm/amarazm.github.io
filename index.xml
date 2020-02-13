@@ -5,9 +5,19 @@
     <link>https://amarazm.github.io/</link>
     <description>Recent content on blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Feb 2020 14:58:02 +0300</lastBuildDate>
     
         <atom:link href="https://amarazm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://amarazm.github.io/2020/02/welcome/</link>
+      <pubDate>Thu, 13 Feb 2020 14:58:02 +0300</pubDate>
+      
+      <guid>https://amarazm.github.io/2020/02/welcome/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
