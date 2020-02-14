@@ -4,21 +4,6 @@
   
   <url>
     <loc>https://amarazm.github.io/</loc>
-    <lastmod>2020-02-13T14:58:02+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amarazm.github.io/posts/</loc>
-    <lastmod>2020-02-13T14:58:02+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amarazm.github.io/2020/02/welcome/</loc>
-    <lastmod>2020-02-13T14:58:02+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
